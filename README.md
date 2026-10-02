@@ -57,7 +57,10 @@ não deve ser apresentado como equivalente direto à taxa oficial de
 desmatamento do PRODES. No dashboard, use o nome **conversão de cobertura
 natural para uso antrópico**.
 
-## Próxima etapa
+## Dashboard concluído
 
-Importar o tema `tema_brasil_em_transformacao.json`, criar os relacionamentos
-descritos em `docs/modelo_power_bi.md` e implementar as medidas DAX.
+Dashboard desenvolvido em Power BI para explorar a cobertura da terra, as transições entre áreas naturais e antrópicas e os focos de queimadas no Brasil, com filtros por período e território.
+
+[📊 Acessar dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiOTc0N2UzNDQtNWUyZC00OWUzLTk5ZTAtMTkzYzdlN2I2NjJhIiwidCI6IjJjZjdkNGQ1LWJkMWItNDk1Ni1hY2Y4LTI5OTUzOTliMjE2OCJ9)
+
+O arquivo `brasilemtransformacao.pbix` está disponível neste repositório para abertura no Power BI Desktop.
