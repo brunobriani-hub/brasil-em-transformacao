@@ -1,0 +1,27 @@
+{
+  "periodo_cobertura": [
+    1985,
+    2025
+  ],
+  "periodo_focos": [
+    1998,
+    2025
+  ],
+  "linhas": {
+    "dim_estado.csv": 27,
+    "dim_bioma.csv": 6,
+    "dim_mes.csv": 12,
+    "dim_ano.csv": 41,
+    "dim_classe.csv": 34,
+    "fato_cobertura.csv": 39360,
+    "fato_transicao.csv": 3920,
+    "fato_focos.csv": 9072
+  },
+  "total_focos_1998_2025": 6071302,
+  "area_natural_para_antropica_ha": 211843656.95,
+  "area_antropica_para_natural_ha": 86468521.88,
+  "fontes": {
+    "mapbiomas": "https://brasil.mapbiomas.org/wp-content/uploads/sites/3/2026/08/MAPBIOMAS_BRAZIL-COL.11-BIOME_STATE.xlsx",
+    "inpe": "https://data.inpe.br/queimadas/estatisticas/?tipo=estados"
+  }
+}

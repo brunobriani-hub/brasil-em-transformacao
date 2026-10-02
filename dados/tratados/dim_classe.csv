@@ -1,0 +1,35 @@
+﻿classe_id,classe_pt,classe_en,natureza,nivel_1_en,nivel_2_en,nivel_3_en,nivel_4_en,cor_hex
+0,Não observado,Not observed,Não observado,7. Not Observed,7. Not Observed,7. Not Observed,7. Not Observed,#FFFFFF
+3,1.1 Formação Florestal,1.1. Forest Formation,Natural,1. Forest,1.1. Forest Formation,1.1. Forest Formation,1.1. Forest Formation,#1f8d49
+4,1.3. Formação Savânica,1.3. Savanna Formation,Natural,1. Forest,1.2. Savanna Formation,1.2. Savanna Formation,1.2. Savanna Formation,#7dc975
+5,1.5. Mangue,1.5. Mangrove,Natural,1. Forest,1.4. Mangrove,1.4. Mangrove,1.4. Mangrove,#04381d
+6,1.2. Floresta Alagável,1.2 Floodable Forest,Natural,1. Forest,1.5. Floodable Forest,1.5. Floodable Forest,1.5. Floodable Forest,#007785
+7,1.4. Savana Alagada (beta),1.4. Flooded Savanna (beta),Natural,1. Forest,1.3. Flooded Savanna,1.3. Flooded Savanna,1.3. Flooded Savanna,#228c70
+9,3.3. Silvicultura,3.3. Forest Plantation,Antrópica,3. Farming,3.3. Forest Plantation,3.3. Forest Plantation,3.3. Forest Plantation,#7a5900
+11,2.3. Campo Alagado e Área Pantanosa,2.3 Wetland,Natural,2. Herbaceous and Shrubby Vegetation,2.1. Wetland,2.1. Wetland,2.1. Wetland,#519799
+12,2.1. Formação Campestre,2.1. Grassland Formation,Natural,2. Herbaceous and Shrubby Vegetation,2.3. Grassland Formation,2.3. Grassland Formation,2.3. Grassland Formation,#d6bc74
+13,Mosaico Herbáceo-Arbustivo,Herbaceous-Shrub Mosaic,Natural,2. Herbaceous and Shrubby Vegetation,2.4. Herbaceous-Shrub Mosaic,2.4. Herbaceous-Shrub Mosaic,2.4. Herbaceous-Shrub Mosaic,
+15,3.1. Pastagem,3.1. Pasture,Antrópica,3. Farming,3.1. Pasture,3.1. Pasture,3.1. Pasture,#edde8e
+20,3.2.1.2. Cana,3.2.1.2. Sugar cane,Antrópica,3. Farming,3.2. Agriculture,3.2.1. Temporary Crop,3.2.1.2. Sugar cane,#db7093
+21,3.4. Mosaico de Usos,3.4. Mosaic of Uses,Antrópica,3. Farming,3.4. Mosaic of Uses,3.4. Mosaic of Uses,3.4. Mosaic of Uses,#ffefc3
+23,"4.1. Praia, Duna e Areal","4.1. Beach, Dune and Sand Spot",Natural,4. Non vegetated area,"4.1. Beach, Dune and Sand Spot","4.1. Beach, Dune and Sand Spot","4.1. Beach, Dune and Sand Spot",#ffa07a
+24,4.2. Área Urbanizada,4.2. Urban Area,Antrópica,4. Non vegetated area,4.2. Urban Area,4.2. Urban Area,4.2. Urban Area,#d4271e
+25,4.6. Outras Áreas não Vegetadas,4.6. Other non Vegetated Areas,,4. Non vegetated area,4.6. Other non Vegetated Areas,4.6. Other non Vegetated Areas,4.6. Other non Vegetated Areas,#db4d4f
+29,2.7. Afloramento Rochoso,2.7. Rocky Outcrop,Natural,2. Herbaceous and Shrubby Vegetation,2.6. Rocky Outcrop,2.6. Rocky Outcrop,2.6. Rocky Outcrop,#ad5100
+30,4.3. Mineração,4.3. Mining,Antrópica,4. Non vegetated area,4.3. Mining,4.3. Mining,4.3. Mining,#9c0027
+31,5.2 Aquicultura,5.2. Aquaculture,Antrópica,5. Water,5.2. Aquaculture,5.2. Aquaculture,5.2. Aquaculture,#091077
+32,2.6. Apicum,2.6. Hypersaline Tidal Flat,Natural,2. Herbaceous and Shrubby Vegetation,2.5. Hypersaline Tidal Flat,2.5. Hypersaline Tidal Flat,2.5. Hypersaline Tidal Flat,#fc8114
+33,"5.1 Rio, Lago e Oceano","5.1. River, Lake and Ocean",Natural,5. Water,"5.1. River, Lake and Ocean","5.1. River, Lake and Ocean","5.1. River, Lake and Ocean",#2532e4
+35,3.2.2.3. Dendê,3.2.2.3. Palm Oil,Antrópica,3. Farming,3.2. Agriculture,3.2.2. Perennial Crop,3.2.2.3. Palm Oil,#9065d0
+39,3.2.1.1. Soja,3.2.1.1. Soybean,Antrópica,3. Farming,3.2. Agriculture,3.2.1. Temporary Crop,3.2.1.1. Soybean,#f5b3c8
+40,3.2.1.3. Arroz,3.2.1.3. Rice,Antrópica,3. Farming,3.2. Agriculture,3.2.1. Temporary Crop,3.2.1.3. Rice,#c71585
+41,3.2.1.5. Outras Lavouras Temporárias,3.2.1.5. Other Temporary Crops,Antrópica,3. Farming,3.2. Agriculture,3.2.1. Temporary Crop,3.2.1.5. Other Temporary Crops,#f54ca9
+46,3.2.2.1. Café,3.2.2.1. Coffee,Antrópica,3. Farming,3.2. Agriculture,3.2.2. Perennial Crop,3.2.2.1. Coffee,#d68fe2
+47,3.2.2.2. Citrus,3.2.2.2. Citrus,Antrópica,3. Farming,3.2. Agriculture,3.2.2. Perennial Crop,3.2.2.2. Citrus,#9932cc
+48,3.2.1.4. Outras Lavouras Perenes,3.2.1.4. Other Perennial Crops,Antrópica,3. Farming,3.2. Agriculture,3.2.2. Perennial Crop,3.2.2.4. Other Perennial Crops,#e6ccff
+49,1.6. Restinga Arbórea,1.6. Wooded Sandbank Vegetation,Natural,1. Forest,1.6. Wooded Sandbank Vegetation,1.6. Wooded Sandbank Vegetation,1.6. Wooded Sandbank Vegetation,#02d659
+50,2.5. Restinga Herbácea ou Arbustiva,2.5. Herbaceous Sandbank Vegetation,Natural,2. Herbaceous and Shrubby Vegetation,2.7. Herbaceous Sandbank Vegetation,2.7. Herbaceous Sandbank Vegetation,2.7. Herbaceous Sandbank Vegetation,#ffaa5f
+62,3.2.1.4. Algodão (beta),3.2.1.4. Cotton (beta),Antrópica,3. Farming,3.2. Agriculture,3.2.1. Temporary Crop,3.2.1.4. Cotton (beta),#ff69b4
+75,4.4. Usina Fotovoltaica,4.4 Photovoltaic Power Plant,Antrópica,4. Non vegetated area,4.4. Photovoltaic Power Plant (beta),4.4. Photovoltaic Power Plant (beta),4.4. Photovoltaic Power Plant (beta),#757272
+84,2.4. Marisma (beta),2.4. Salt Marsh (beta),Natural,2. Herbaceous and Shrubby Vegetation,2.2. Marisma,2.2. Marisma,2.2. Marisma,#81dbbf
+91,4.5. Parque eólico (beta),4.5. Wind farm (beta),Antrópica,4. Non vegetated area,4.5. Wind Farm,4.5. Wind Farm,4.5. Wind Farm,#403d3e

@@ -1,0 +1,7 @@
+dados/brutos/
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+*.pbix
+*.pbit

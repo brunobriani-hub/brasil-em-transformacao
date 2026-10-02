@@ -1,0 +1,16 @@
+{
+  "name": "Brasil em Transformação",
+  "dataColors": [
+    "#2F5D50",
+    "#C56A4A",
+    "#D4A84F",
+    "#4E7892",
+    "#7A8E5B",
+    "#8B6F62",
+    "#6F7480",
+    "#B78572"
+  ],
+  "background": "#F7F5F0",
+  "foreground": "#26332F",
+  "tableAccent": "#2F5D50"
+}
